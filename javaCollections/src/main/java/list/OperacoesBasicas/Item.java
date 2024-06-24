@@ -1,2 +1,3 @@
-package main.java.list.OperacoesBasicas;public class Item {
-}
+package main.java.list.OperacoesBasicas;
+
+public class Item {}

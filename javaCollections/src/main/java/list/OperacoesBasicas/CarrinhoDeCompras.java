@@ -1,2 +1,3 @@
-package main.java.list.OperacoesBasicas;public class CarrinhoDeCompras {
-}
+package main.java.list.OperacoesBasicas;
+
+public class CarrinhoDeCompras {}

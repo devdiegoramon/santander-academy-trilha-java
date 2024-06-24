@@ -1,2 +1,4 @@
-package main.java.list.Ordenacao;public class OrdenacaoNumero {
+package main.java.list.Ordenacao;
+
+public class OrdenacaoNumero {
 }
